@@ -1,4 +1,4 @@
-# FruitStand
+# Fruit Stand
 Create an application wit a form that resembles Figure 3-48. The PictureBox controls display the images of four fruites (a banana, an apple, an orange, an a pear) and each fruit's price-per-pound. You can find these images in the Chap03 folder of the Student Sample Programs.
 ![Screenshot 2025-02-14 004132](https://github.com/user-attachments/assets/af1ddf2f-1e40-47a7-8d60-3473f36c5fc4)
 
